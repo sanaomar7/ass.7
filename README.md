@@ -16,3 +16,4 @@ It is utilized when single one instance of a class is needed to control the ope
 
 In each scenario and at any cost, a singleton class should not contain numerous instances. For logging, driver objects, caching and thread pooling, and database connections, singleton classes are employed.
 
+.
